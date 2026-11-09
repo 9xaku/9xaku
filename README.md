@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:8957e5,100:0d1117&height=220&section=header&text=aku&fontSize=80&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:1f6feb,50:8957e5,100:0d1117&height=180&section=header&text=aku&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&lines=C%23+%7C+C%2B%2B+%7C+Frontend+Developer;High-Performance+Systems;Clean+Code+%26+Modern+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&lines=C%23+%7C+C%2B%2B+%7C+Frontend+Developer;High-Performance+Systems;Clean+Code+%26+Modern+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </div>
 
