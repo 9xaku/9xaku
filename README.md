@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&lines=C%23+%7C+C%2B%2B+%7C+Frontend+Developer;High-Performance+Systems;Clean+Code+%26+Modern+UI%2FUX;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=800&lines=C%23+%7C+C%2B%2B+%7C+Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;Clean+Code+%26+Modern+UI%2FUX" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,react,ts,tailwind,dotnet,qt,unity,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,html,css,js,php,react,ts,tailwind,dotnet,qt,unity,git,github,vscode&theme=dark&perline=8" alt="Tech Stack" />
 </div>
 
 <br/>
@@ -42,14 +42,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=9xaku&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=1F6FEB&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" width="70%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/k08qj76asyvrzbhjunmx4iwik">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=k08qj76asyvrzbhjunmx4iwik&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8957e5&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
-  </a>
 </div>
 
 <br/>
