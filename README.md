@@ -28,8 +28,14 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=9xaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=1F6FEB&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=9xaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,react,ts,tailwind,dotnet,qt,unity,git,github,vscode&theme=dark&perline=11" alt="Tech Stack" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=9xaku&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=1F6FEB&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9xaku&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%" />
 </div>
 
 <br/>
@@ -41,14 +47,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=9xaku&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://open.spotify.com/user/k08qj76asyvrzbhjunmx4iwik">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=k08qj76asyvrzbhjunmx4iwik&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=8957e5&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=k08qj76asyvrzbhjunmx4iwik&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8957e5&bar_color_cover=true" alt="Spotify Now Playing" width="400" />
   </a>
 </div>
 
